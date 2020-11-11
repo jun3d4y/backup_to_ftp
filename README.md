@@ -8,6 +8,6 @@ user = your ftp user
 password = your ftp password  
 
 [SCRIPT]  
-backuptokeep = the number of backup that will be kept simultanously  
+backuptokeep = the number of backup that will be kept simultaneously  
 backupfolder = the folder on the server where the archives will be stored (if it doesn't exist it will create one)  
 wwwpath = the folder path you want to backup  
